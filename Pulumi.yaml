@@ -1,0 +1,6 @@
+name: infrastructure_provision
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal AWS Python Pulumi program
